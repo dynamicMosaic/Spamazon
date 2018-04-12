@@ -1,0 +1,17 @@
+{
+  "name": "fake_amazon_store",
+  "version": "1.0.0",
+  "description": "amazon_store",
+  "main": "server.js",
+  "dependencies": {
+    "inquire": "^0.4.8",
+    "inquirer": "^5.2.0",
+    "mysql": "^2.15.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "Hunter-Wiley",
+  "license": "ISC"
+}
